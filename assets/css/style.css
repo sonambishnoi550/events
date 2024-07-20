@@ -109,7 +109,7 @@
 }
 
 .bg-image {
-    background-image: url(../images/heroimage.png);
+    background-image: url(../images/eventimage.png);
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -406,10 +406,10 @@ footer ul li:not(:first-child) a {
 
 @media(min-width:992px) {
     .col-md-4 {
-        width: 33.33%;
-        padding-left: 12px;
-        padding-right: 12px;
-    }
+            width: 33.33%;
+            padding-left: 12px;
+            padding-right: 12px;
+        }
 
     .col-lg-7 {
         width: 58.33%;
